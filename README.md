@@ -1,6 +1,6 @@
 # Maji Ndogo Water Project (Part III)
 
-## Weaving the Data Threads of Maji Ndogo's Narrative
+## Weaving the Data Threads of Maji Ndogo's Narrative 
 
 This section of the Maji Ndogo Water Project focuses on managing the data structure, integrating an auditor's report, and investigating errors and anomalies in water quality assessments.
 
